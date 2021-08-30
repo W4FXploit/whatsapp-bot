@@ -26,8 +26,8 @@
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://www.arugaz.my.id" target="_blank">ArugaZ Rest Api</a>.</p>
-<p align="center"><a href="https://instagram.com/ini.kocakz/" target="_blank">Chat me on Insta</a>.</p>
+<p align="center"><a href="https://www.arugaz.my.id" target="_blank">W4FXploit Rest Api</a>.</p>
+<p align="center"><a href="https://instagram.com/w4fxploit_id" target="_blank">Chat me on Instagram</a>.</p>
 </div>
 
 ## Getting Started
@@ -38,7 +38,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
+> git clone https://github.com/W4FXploit/whatsapp-bot.git
 > cd whatsapp-bot
 ```
 
